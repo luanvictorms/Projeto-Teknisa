@@ -1,11 +1,11 @@
 # Aprendendo mais sobre HTML e Css no Bootcamp Teknisa 2022
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/README-template?Pokemon-v2)
-![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/README-template?Pokemon-v2)
-![GitHub forks](https://img.shields.io/github/forks/luanvictorms/README-template?Pokemon-v2)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/README-template?Pokemon-v2)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/README-template?Pokemon-v2)
+![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/README-template?Projeto-Teknisa)
+![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/README-template?Projeto-Teknisa)
+![GitHub forks](https://img.shields.io/github/forks/luanvictorms/README-template?Projeto-Teknisa)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/README-template?Projeto-Teknisa)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/README-template?Projeto-Teknisa)
 
 
 > Projeto para aprendizado.
@@ -45,4 +45,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#Projeto TEKNISA)<br>
+[⬆ Voltar ao topo](#Projeto-Teknisa)<br>
