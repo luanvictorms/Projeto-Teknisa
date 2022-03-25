@@ -1,11 +1,11 @@
 # Aprendendo mais sobre HTML e Css no Bootcamp Teknisa 2022
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/README-template?Projeto-Teknisa)
-![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/README-template?Projeto-Teknisa)
-![GitHub forks](https://img.shields.io/github/forks/luanvictorms/README-template?Projeto-Teknisa)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/README-template?Projeto-Teknisa)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/README-template?Projeto-Teknisa)
+![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/Projeto-Teknisa)
+![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/Projeto-Teknisa)
+![GitHub forks](https://img.shields.io/github/forks/luanvictorms/Projeto-Teknisa)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/Projeto-Teknisa)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/Projeto-Teknisa)
 
 
 > Projeto para aprendizado.
